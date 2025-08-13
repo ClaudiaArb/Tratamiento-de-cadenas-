@@ -1,5 +1,1 @@
-"# Tratamiento-de-cadenas-" 
-"# Tratamiento-de-cadenas-" 
-"# Tratamiento-de-cadenas-" 
-"# Tratamiento-de-cadenas-" 
-"# Tratamiento-de-cadenas-" 
+Tratamiento-de-cadenas-
